@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-eierwe/static/js/main.a2cac357.chunk.js",
+    "main.js.map": "https://.github.io/csb-eierwe/static/js/main.a2cac357.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-eierwe/static/js/runtime-main.27f83bf0.js",
+    "runtime-main.js.map": "https://.github.io/csb-eierwe/static/js/runtime-main.27f83bf0.js.map",
+    "static/js/2.20522143.chunk.js": "https://.github.io/csb-eierwe/static/js/2.20522143.chunk.js",
+    "static/js/2.20522143.chunk.js.map": "https://.github.io/csb-eierwe/static/js/2.20522143.chunk.js.map",
+    "index.html": "https://.github.io/csb-eierwe/index.html",
+    "static/js/2.20522143.chunk.js.LICENSE.txt": "https://.github.io/csb-eierwe/static/js/2.20522143.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27f83bf0.js",
+    "static/js/2.20522143.chunk.js",
+    "static/js/main.a2cac357.chunk.js"
+  ]
+}
